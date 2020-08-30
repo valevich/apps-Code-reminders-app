@@ -26,7 +26,7 @@ class ReminderItem extends StatelessWidget {
                   Icon(
                     remindersIcons[iconName],
                     color: Colors.blue,
-                    size: 30.0,
+                    size: 18.0,
                   ),
                   Padding(
                       padding: new EdgeInsets.only(left: margin),
